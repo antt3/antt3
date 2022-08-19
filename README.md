@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: JS > Python
 
+
+Trained in JavaScript, Python, React, Redux, HTML, CSS, Flask, Express.js, Postgresql, AWS, Websocket.io, Heroku, Node.js, and Git.
+
