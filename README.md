@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on DS & A and refactoring my projects.
 - 🌱 I’m currently reviewing Pythn and JavaScript.
 - 💬 Ask me about Amazon Web Sockets.
-- 📫 How to reach me: anthoyt3@sbcgllobal.net
+- 📫 How to reach me: anthonyt3@sbcglobal.net
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: JS > Python
+- ⚡ Fun fact: I'm a liscenced Life & Health Insurance Agent.
 
 
 Trained in JavaScript, Python, React, Redux, HTML, CSS, Flask, Express.js, Postgresql, AWS, Websocket.io, Heroku, Node.js, and Git.
