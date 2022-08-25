@@ -1,6 +1,5 @@
 ### Hi my name is Anthony Taylor 👋
 Sacramento, CA |
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) |
 [My Portfolio Site](https://antt3.herokuapp.com/index.html)
 
 
