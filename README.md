@@ -11,7 +11,7 @@ Sacramento, CA |
 Here are some ideas to get you started:
 -->
 - 🔭 I’m looking forward to starting my career as a Software Engineer.
-- 🌱 I’m currently working on Python and JavaScript DS&A and refactoring my projects.
+- 🌱 I’m currently working on JavaScript DS&A and refactoring my projects.
 - 💬 Ask me about Amazon Web Services.
 - 📫 How to reach me: anthonyt3@sbcglobal.net
 - 😄 Pronouns: He/Him
