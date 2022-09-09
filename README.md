@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a liscenced Life & Health Insurance Agent.
 
 
-Trained in JavaScript, Python, React, Redux, HTML, CSS, Flask, Express.js, Postgresql, AWS, Websocket.io, Heroku, Node.js, and Git.
+Trained in JavaScript, Python, React, Redux, HTML, CSS, Flask, Express.js, PostgreSQL, AWS, Websocket.io, Heroku, Node.js, and Git.
 
