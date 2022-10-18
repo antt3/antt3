@@ -4,7 +4,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
 
 - 🏠 I'm from Sacramento, CA
 - 🔭 I’m looking forward to starting my career as a Software Engineer.
-- 🌱 I’m currently working on JavaScript data structures and algorythms, refactoring my projects, and learning TypeScrypt.
+- 🌱 I’m currently working on TypeScript, JavaScript Data Structures & Algorithms, and refactoring my projects.
 - 💬 Ask me about Amazon Web Services
 - ⚡ Fun fact: I'm a liscenced Life & Health Insurance Agent.
 
