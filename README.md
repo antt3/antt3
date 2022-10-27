@@ -1,4 +1,4 @@
-anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | [AngelList](https://angel.co/u/anthony-taylor-27) | [Portfolio Site](https://antt3.herokuapp.com/index.html) | [Tublian](https://www.tublian.com/profile/antt3)
+anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | [AngelList](https://angel.co/u/anthony-taylor-27) | [Tublian](https://www.tublian.com/profile/antt3) | [Portfolio Site](https://antt3.herokuapp.com/index.html)
 
 ## 👋 Hi my name is Anthony Taylor
 
