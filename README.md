@@ -6,7 +6,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
 - 🔭 I’m looking forward to beginning my career as a Software Engineer.
 - 🌱 I’m currently working on learning Java.
 - 💬 Ask me about AWS S3.
-- ⚡ Fun fact: I'm a liscenced Life & Health Insurance Agent.
+- ⚡ I'm a liscenced Life & Health Insurance Agent.
 
 <br />
 
