@@ -1,12 +1,12 @@
 anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | [Wellfound](https://angel.co/u/anthony-taylor-27) | [Portfolio Site](https://antt3.herokuapp.com/index.html)
 
-## 👋 Hi my name is Anthony Taylor
+## 👋 Hi my name is Anthony
 
-- 🏠 I'm from Sacramento, CA
+- 🏠 I'm from Sacramento, CA.
 - 🔭 I’m looking forward to beginning my career as a Software Engineer.
-- 🌱 I’m currently working on learning Java.
+- 🌱 I’m currently working on improving my project "Simul".
 - 💬 Ask me about AWS S3.
-- ⚡ I'm a liscenced Life & Health Insurance Agent.
+- ⚡ I'm an App Academy graduate.
 
 <br />
 
