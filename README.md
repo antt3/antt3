@@ -8,7 +8,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
 - 💬 Ask me about AWS S3.
 - ⚡ I'm an App Academy graduate.
 
-<br />
+---
 
 ## 🧰 Languages and Tools:
 
@@ -37,9 +37,13 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-<br />
+---
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antt3&show_icons=true&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true" />
+### :fire: My Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antt3&theme=tokyonight)
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antt3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antt3&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
