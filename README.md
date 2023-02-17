@@ -1,6 +1,6 @@
 anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | [Wellfound](https://angel.co/u/anthony-taylor-27) | [Portfolio Site](https://antt3.herokuapp.com/index.html)
 
-## 👋 Hi my name is Anthony
+### 👋 Hi my name is Anthony
 
 - 🏠 I'm from Sacramento, CA.
 - 🔭 I’m looking forward to beginning my career as a Software Engineer.
@@ -10,7 +10,15 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
 
 ---
 
-## 🧰 Languages and Tools:
+### :fire: My Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antt3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antt3&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### 🧰 Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -36,14 +44,3 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
-
----
-
-### :fire: My Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antt3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antt3&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
