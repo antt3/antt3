@@ -5,7 +5,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
 - 🏠 I'm from Sacramento, CA.
 - 🔭 I’m looking forward to beginning my career as a Software Engineer.
 - 🌱 I’m currently working on improving my project "Simul".
-- 💬 Ask me about AWS S3.
+- 💬 Ask me about Java.
 - ⚡ I'm an App Academy graduate.
 
 ---
