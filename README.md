@@ -40,7 +40,11 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" title="Sequelize" alt="Sequelize" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="FileZilla" alt="FileZilla" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
