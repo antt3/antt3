@@ -48,9 +48,9 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
-
+<!-- 
 ---
 
 ### 📈 My GitHub History:
 
-![Snake animation](https://github.com/antt3/antt3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/antt3/antt3/blob/output/github-contribution-grid-snake.svg) -->
