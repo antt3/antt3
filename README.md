@@ -5,7 +5,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/anthony-t3/) | 
 - 🏠 I'm from Sacramento, CA.
 - 🔭 I’m looking forward to improving my skills as a Software Engineer.
 - 🌱 I’m currently working at Nelson & Kennard as a Programming Analyst.
-- 💬 Ask me about Pandas.
+- 💬 Ask me about Java.
 - ⚡ I'm a graduate of App Academy's 6 month coding bootcamp.
 
 ---
