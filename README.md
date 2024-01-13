@@ -6,7 +6,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Well
 - 🔭 I’m looking forward to improving my skills as a Software Engineer.
 - 🌱 I’m currently working at Nelson & Kennard as a Programming Analyst.
 - 💬 Ask me about Java.
-- ⚡ I'm a graduate of App Academy's 6 month coding bootcamp.
+- ⚡ I'm a graduate of App Academy's coding bootcamp.
 
 ---
 
