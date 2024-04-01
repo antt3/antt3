@@ -14,9 +14,10 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Well
 ### :fire: My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antt3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antt3&theme=dark&background=000000)](https://git.io/streak-stats)
 
+-->
 ---
 
 
