@@ -5,7 +5,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Well
 - 🏠 I'm from Sacramento, CA.
 - 🔭 I’m looking forward to improving my skills as a Software Engineer.
 - 🌱 I’m currently working at The Law Office Of Nelson & Kennard as a Programming Analyst.
-- 💬 Ask me about my Google Cybersecurity Certificate.
+- 💬 Ask me about my Google Cybersecurity Professional Certificate.
 - ⚡ I'm a graduate of App Academy's coding bootcamp.
 
 ---
