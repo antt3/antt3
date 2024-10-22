@@ -2,11 +2,11 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Well
 
 ### 👋 Hi my name is Anthony
 
-- 🏠 I'm from Sacramento, CA.
-- 🔭 I’m looking forward to improving my skills as a Software Engineer.
-- 🌱 I’m currently working at The Law Office Of Nelson & Kennard as a Programming Analyst.
-- 💬 Ask me about my Google Cybersecurity Professional Certificate.
-- ⚡ I'm a graduate of App Academy's coding bootcamp.
+- 🏠 I'm from Sacramento, CA
+- 🔭 I’m looking forward to improving my skills as a Software Engineer
+- 🌱 I’m currently working at The Law Office Of Nelson & Kennard as a Programming Analyst
+- 💬 Ask me about Rust
+- ⚡ I'm a graduate of App Academy's coding bootcamp
 
 ---
 
