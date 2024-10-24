@@ -1,4 +1,4 @@
-anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Wellfound](https://angel.co/u/anthony-taylor-27) | [Portfolio Site](https://antt3.vercel.app)
+anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Portfolio Site](https://antt3.vercel.app)
 
 ### 👋 Hi my name is Anthony
 
