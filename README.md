@@ -3,7 +3,7 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Port
 ### 👋 Hi my name is Anthony
 
 - 🏠 I'm from Sacramento, CA
-- 🔭 I’m looking forward to improving my skills in cybersecurity 
+- 🔭 I’m looking forward to improving my skills with Data Structues andd Algorithms. 
 - 🌱 I’m currently working at The Law Office Of Nelson & Kennard as a Programming Analyst
 - 💬 Ask me about Rust
 - ⚡ I'm an App Academy alumni
