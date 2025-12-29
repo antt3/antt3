@@ -8,10 +8,10 @@ anthonyt3@sbcglobal.net | [LinkedIn](https://www.linkedin.com/in/antt3/) | [Port
 - 💬 Ask me about Rust
 - ⚡ I'm an App Academy alumni
 
----
+<!-- ---
 
 
-<!-- ### :fire: My Stats:
+### :fire: My Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antt3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
